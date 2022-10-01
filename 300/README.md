@@ -1,4 +1,4 @@
-# 300 - ...
+# 300 - Using Our App
 
 ## 100 - First Time Use
 
