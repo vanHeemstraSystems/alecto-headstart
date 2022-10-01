@@ -7,7 +7,7 @@ See [README.md](./100/README.md)
 
 ## 200 - Requirements
 
-- Alecto Energy Monitor, see https://alectohome.nl/products/alecto-em-17-energiemeter-wit
+See [README.md](./200/README.md)
 
 ## 300 - Using our App
 
